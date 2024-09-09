@@ -21,7 +21,9 @@ Audio:
 /Assets/Audio/Music/Menus/HoliznaCC0 - Beginning 2.mp3
 <br>
 
-Adapted from: https://freemusicarchive.org/music/holiznacc0/discography
+Adapted from: 
+<br>
+https://freemusicarchive.org/music/holiznacc0/discography
 
 Models:
 <br>
@@ -29,6 +31,8 @@ Models:
 <br>
 /Assets/Models/Kenney Nature Kit Assets
 
-Adapted from: https://kenney.nl/assets/minigolf-kit
+Adapted from: 
 <br>
-              https://kenney.nl/assets/nature-kit
+https://kenney.nl/assets/minigolf-kit
+<br>
+https://kenney.nl/assets/nature-kit

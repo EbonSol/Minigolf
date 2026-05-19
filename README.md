@@ -1,5 +1,23 @@
 # Minigolf
 
+A project on a 3D mini-golf game with an emphasis on physics. 
+
+All /Assets files are as follows:
+<br> 
+Audio - Contains all audio files used 
+<br>
+Fonts - Contains custom fonts used for text 
+<br>
+Materials - Contains the material assets used for object textures
+<br>
+Models - Contains the models of all the objects used within the project
+<br>
+Prefabs - Contains the prefabs created during the course of the project
+<br>
+Scenes - Contains the scenes necessary for transitions within the game
+<br>
+Scripts - Contains all the scripts required for the implementation of the game
+
 All external assets used for this project are royalty-free and not used for commercial purposes.
 
 All external assets used in this project:
